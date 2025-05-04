@@ -1,7 +1,7 @@
 name: sms_controller
 description: A Flutter plugin to send and read SMS messages.
 version: 0.0.1
-author: Rajkumar07793 <rajkumar07793@gmail.com>
+# author: Rajkumar07793 <rajkumar07793@gmail.com>
 homepage: https://github.com/Rajkumar07793/sms_controller
 repository: https://github.com/Rajkumar07793/sms_controller
 issue_tracker: https://github.com/Rajkumar07793/sms_controller/issues
